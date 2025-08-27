@@ -19,7 +19,7 @@
 
   - **IT SOX Specialist, VIATECH** *(Apr 2025–Present)*
     - Monitor SOX compliance for Flutter Entertainment
-    - Automate Change Management Control checks with Python (↓70% execution time)
+    - Automate Change Management Control checks with Python 
     - Analyze ITGC, SoD controls, mitigate conflicts
     - Remediate IT automated controls (ITAC), track testing
     - Collaborate with teams to enhance control effectiveness
