@@ -49,7 +49,7 @@
 <details>
   <summary><b>Education & Certifications</b></summary>
 
-  - **European University of Tirana** *(Computer Engineering, Sep 2021–Sep 2022)*
+  - **European University of Tirana** *(Computer Engineering, Oct 2022–Jul 2025)*
   - **Riga Technical University** *(Erasmus+, 2024)*
   - **Certifications:**
     - Python Full Stack Web Development (SDA by Protik)
